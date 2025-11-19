@@ -1,0 +1,3 @@
+# run pipreqs . --ignore .venv to create this thing
+
+matplotlib==3.10.7

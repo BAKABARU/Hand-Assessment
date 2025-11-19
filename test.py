@@ -1,7 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import turtle
 
 df = pd.read_csv("AnkleNormal.csv") # loads data
 print(df.head()) # makes sure data is loaded properly
