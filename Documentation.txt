@@ -1,6 +1,15 @@
 Project meetes weekly on Monday
 
-11/3/2026 (Monday):
+11/3/2025 (Monday):
 Downloaded LabVIEW Community to program the robot arm
 LabVIEW Community / Robot arm does not work with Macbook </3, this task has been given to Dom
 Going to try converting the provided LabVIEW code to python for ease of use. If this doesn't work in the next week, I'll switch to something else.
+
+During the week:
+Created a sample python code of how I could analyze the data once it is provided
+
+11/10/2025 (Monday):
+Researched statistical techniques and helped out wherever I could with the others since I still don't have data.
+
+During the week:
+Looked more into statistical analysis with python, try to do something with MAE
